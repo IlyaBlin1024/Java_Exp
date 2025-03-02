@@ -1,0 +1,9 @@
+[submodule "LR2.1"]
+	path = LR2.1
+	url = https://github.com/BlinkovIlya/LR2.1.git
+[submodule "Video-Testing_System-master"]
+	path = Video-Testing_System-master
+	url = https://github.com/BlinkovIlya/Video-Testing_System-tests.git
+[submodule "LR3"]
+	path = LR3
+	url = https://github.com/BlinkovIlya/LR3.git
